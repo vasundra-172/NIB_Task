@@ -54,16 +54,16 @@ const Navbar = () => {
                 <a className="nav-link hover-gray" href="/">Home</a>
               </li>
               <li className="nav-item px-3">
-                <a className="nav-link hover-gray" href="/about">About US</a>
+                <a className="nav-link hover-gray" href="https://www.notioninsurance.com/about-us">About US</a>
               </li>
               <li className="nav-item px-3">
-                <a className="nav-link hover-gray" href="/claim">Make a Claim</a>
+                <a className="nav-link hover-gray" href="https://www.notioninsurance.com/make-claim">Make a Claim</a>
               </li>
               <li className="nav-item px-3">
-                <a className="nav-link hover-gray" href="/contact">Contact Us</a>
+                <a className="nav-link hover-gray" href="https://www.notioninsurance.com/contact-us">Contact Us</a>
               </li>
               <li className="nav-item px-3">
-                <button className="btn btn-outline-primary">Login</button>
+                <a href="https://www.notioninsurance.com/login"><button className="btn btn-outline-primary">Login</button></a>
               </li>
               <li className="nav-item ps-3">
                 <button className="btn btn-primary">Become a Posp</button>
